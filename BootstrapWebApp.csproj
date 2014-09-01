@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="02_02.html" />
+    <Content Include="02_03.html" />
     <Content Include="css\bootstrap-theme.css" />
     <Content Include="css\bootstrap-theme.min.css" />
     <Content Include="css\bootstrap.css" />

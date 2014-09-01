@@ -65,6 +65,8 @@
     <Content Include="02_07.html" />
     <Content Include="03_01.html" />
     <Content Include="03_02.html" />
+    <Content Include="03_03.html" />
+    <Content Include="03_04.html" />
     <Content Include="css\bootstrap-theme.css" />
     <Content Include="css\bootstrap-theme.min.css" />
     <Content Include="css\bootstrap.css" />

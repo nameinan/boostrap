@@ -57,12 +57,29 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="02_02.html" />
     <Content Include="css\bootstrap-theme.css" />
     <Content Include="css\bootstrap-theme.min.css" />
     <Content Include="css\bootstrap.css" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\custom.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="img\animals.jpg" />
+    <Content Include="img\bulldog.jpg" />
+    <Content Include="img\chase.jpg" />
+    <Content Include="img\cockatiel.jpg" />
+    <Content Include="img\dog1.jpg" />
+    <Content Include="img\dog2.jpg" />
+    <Content Include="img\dog3.jpg" />
+    <Content Include="img\dog4.jpg" />
+    <Content Include="img\goldfish.jpg" />
+    <Content Include="img\gsd.jpg" />
+    <Content Include="img\jumbotron.jpg" />
+    <Content Include="img\kitten.jpg" />
+    <Content Include="img\logo.png" />
+    <Content Include="img\sanders.jpg" />
+    <Content Include="img\sick-puppy.jpg" />
+    <Content Include="img\winthrop.jpg" />
     <Content Include="grid.html" />
     <Content Include="index.html" />
     <Content Include="js\bootstrap.js" />

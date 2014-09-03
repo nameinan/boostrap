@@ -33,3 +33,11 @@ git push -u origin master
 08/29/2014  07:57 PM        9.Challenge Styling panels and callouts.m4a
 08/29/2014  07:26 PM        10.Solution Styling panels and callouts.mp4
 					
+
+4. Navigation system
+
+08/29/2014  08:08 PM       1.Implementing location breadcrumbs.mp4
+08/29/2014  07:38 PM       2.Using tabs and pills for navigation.mp4
+08/29/2014  08:11 PM       3.Developing a responsive navigation bar.mp4
+08/29/2014  01:40 PM       4.Challenge Modify the "pancake" button.m4a
+08/29/2014  07:29 PM       5.Solution Modify the "pancake" button.mp4
